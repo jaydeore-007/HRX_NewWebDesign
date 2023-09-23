@@ -1,4 +1,4 @@
-Welcome to the HRX Alternative Design Web Application, a fresh take on HRX's user interface using HTML, React, and Tailwind CSS. This project showcases an innovative redesign of HRX's web interface, offering a sleek and modern user experience.
+Welcome to the HRX Alternative Design Web Application, a fresh take on HRX's user interface using HTML, React, and Tailwind CSS. This project showcases an innovative redesign of HRX's web interface, with a primary focus on exploring the capabilities of Tailwind CSS. Offering a sleek and modern user experience. Please note that the backend development is in its early stages.
 Features:
 🚀 Modern Design: Explore a cutting-edge redesign of HRX with a clean and intuitive user interface.
 
