@@ -11,3 +11,7 @@ Features:
 🌐 Real-time Updates: Stay up to date with the latest HRX design trends and receive automatic updates to keep your interface fresh.
 
 🔧 Easy Customization: Tailwind CSS makes it effortless to tailor the design to your specific needs or integrate it into your own projects.
+
+
+https://github.com/jaydeore-007/HRX_NewWebDesign/assets/93081519/e4f43c9e-3157-4b9e-bbb6-61d659a2d953
+
